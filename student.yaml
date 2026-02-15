@@ -1,0 +1,37 @@
+- name: "Punnam"
+  dob: "1990-01-01"
+  email: "punnam.elite@gmail.com"
+  address:
+  - flatNo: "A-101"
+    street: "123 Main St"
+    city: "Anytown"
+    state: "CA"
+    zip: "12345"
+    type: "home"
+
+  - flatNo: "B-202"
+    street: "456 Elm St"
+    city: "Othertown"
+    state: "NY"
+    zip: "67890"
+
+
+
+
+- name: "Punnam2"
+  dob: "1990-01-01"
+  email: "punnam.elite@gmail.com"
+  address:
+  - flatNo: "A-101"
+    street: "123 Main St"
+    city: "Anytown"
+    state: "CA"
+    zip: "12345"
+    type: "home"
+
+  - flatNo: "B-202"
+    street: "456 Elm St"
+    city: "Othertown"
+    state: "NY"
+    zip: "67890"
+      
